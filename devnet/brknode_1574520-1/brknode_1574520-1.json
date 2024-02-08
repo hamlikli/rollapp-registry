@@ -1,8 +1,8 @@
 {
     "chainId": "brknode_1574520-1",
     "chainName": "brknode_1574520-1",
-    "rpc": "",
-    "rest": "",
+    "rpc": "168.119.111.126",
+    "rest": "168.119.111.126",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x180678",
-      "rpc": ""
+      "rpc": "168.119.111.126:8545"
     },
     "type": "RollApp",
     "da": "Avail",
