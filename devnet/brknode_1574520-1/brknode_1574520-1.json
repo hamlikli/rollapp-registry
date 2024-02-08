@@ -1,8 +1,8 @@
 {
     "chainId": "brknode_1574520-1",
     "chainName": "brknode_1574520-1",
-    "rpc": "168.119.111.126",
-    "rest": "168.119.111.126",
+    "rpc": "https://froopyland.dymension.xyz/9/brknode_1574520-1/rpc",
+    "rest": "https://froopyland.dymension.xyz/9/brknode_1574520-1/rest",
     "bech32Prefix": "ethm",
     "currencies": [
       {
